@@ -5,9 +5,13 @@ Author: Chip Huyen
 Prepared for the class CS 20SI: "TensorFlow for Deep Learning Research"
 cs20si.stanford.edu
 """
+
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-
+"""
+This is a test!
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
