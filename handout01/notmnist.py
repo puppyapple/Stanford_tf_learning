@@ -1,6 +1,6 @@
 import os
 import numpy
-import tensorflow
+import tensorflow as tf
 import time
 
 
